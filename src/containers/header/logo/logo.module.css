@@ -1,0 +1,13 @@
+.logoWrap {
+    width: 136px;   
+    margin-right: 22px;
+    box-sizing: border-box;
+    height: 48px;
+    padding: 12px 0;
+}
+
+.logo {
+    object-fit: fill;
+    width: 136px;
+    height: auto;
+}

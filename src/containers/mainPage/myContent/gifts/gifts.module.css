@@ -1,0 +1,15 @@
+.images {
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.images:hover {
+    cursor: pointer;
+}
+
+.image {
+    width: 64px;
+    height: 64px;
+    object-fit: cover;
+}

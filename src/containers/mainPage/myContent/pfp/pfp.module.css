@@ -1,0 +1,65 @@
+.pic {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.editButton {
+    width: 200px;
+    height: 30px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    background-color: rgb(207, 226, 238);
+    color: rgb(60, 82, 101);
+    border: none;
+    margin-bottom: 15px;
+    padding-left: 5px;
+}
+
+.line {
+    padding-left: 5px;
+    display: block;
+    height: 1px;
+    background-color: #ddd;
+    width: 200px;
+    margin: 5px 0;
+}
+
+.textGray {
+    display: flex;
+    height: 36px;
+    width: 200px;  
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: rgb(108, 103, 103);
+    margin: 10px 0;
+    font-size: 14px;
+}
+
+.link {
+    display: block;
+    color: rgb(39, 67, 172);
+    transition: 0.1s;
+    text-decoration: none;
+    width: 180px;
+    padding-left: 34px;
+    overflow: hidden;
+    font-size: small;
+}
+
+.link:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.ico {
+    height: 24px;
+    width: 24px;
+    margin: auto 10px auto 0;
+}
+
+.leftShift10px{
+    box-sizing: border-box;
+    padding-left: 10px;
+}

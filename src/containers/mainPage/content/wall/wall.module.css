@@ -1,0 +1,63 @@
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 5px;
+}
+
+.ico {
+    width: 18px;
+    height: 18px;
+    object-fit: cover;
+}
+
+.ico:hover{
+    cursor: pointer;
+}
+
+.switchWall {
+    border: none;
+    box-sizing: border-box;
+    background-color: transparent;
+    color: #666;
+    padding-bottom: 10px;
+}
+.line{
+    height: 2px;
+    background-color: #666;
+
+    transition: 0.2s;
+    transform: translateY(29px);
+
+}
+
+.line62{
+    width: 62px;
+    margin-left: 5px;
+}
+
+.line622{
+    margin-left: 67px;
+    width: 65px;
+}
+
+.line87{
+    margin-left: 132px;
+    width: 100px;
+    
+}
+
+
+.switchWall:hover {
+    cursor: pointer;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 9px;
+}
+
+.mtm15{
+    margin-top: -15px;
+    margin-left: 5px;
+}
+
+.mbm20 {
+    margin-bottom: -30px;
+}

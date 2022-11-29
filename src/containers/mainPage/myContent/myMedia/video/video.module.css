@@ -1,0 +1,8 @@
+.wrap {
+    display: block;
+    box-sizing: border-box;    
+    padding: 5px 0 0 5px;
+    margin-bottom: 15px;
+    width: 200px;
+    height: auto;
+}

@@ -1,0 +1,37 @@
+.wrap {
+    display: flex;
+    box-sizing: border-box;    
+    padding: 5px 0 0 5px;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+.image{
+    width: 24px;
+    height: 24px;
+    background-color: #eee;
+    border: #eee 4px solid;
+}
+
+.trackName{
+    display:block;
+    box-sizing: border-box;
+    padding-left: 10px;
+    font-size: 14px;
+    width: 150px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.trackName:hover, .trackName:focus {
+    cursor: pointer;
+}
+
+.artist{
+    color: #666;
+}
+
+.composition{
+    color: #bbb
+}

@@ -1,0 +1,19 @@
+.line{
+    display: block;    
+    width: 550px;
+    height: 1px;
+    background-color: #ddd;
+    margin: 15px 0 15px -15px;
+
+}
+
+.narrow{
+    width: 500px;
+    margin-left: 10px;
+}
+
+.short{
+    width: 240px;
+    margin-left: -10px;
+}
+

@@ -1,0 +1,38 @@
+.wrap {
+    display: flex;
+    box-sizing: border-box;
+    align-items: flex-start;
+    padding: 5px 0 0 5px;
+    margin-bottom: 10px;
+}
+
+
+
+.title{
+    color: #666;    
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.descr {
+    color: #aaa;
+    width: 150px;
+    overflow: hidden;
+    height: 36px;
+}
+
+.image {
+    height: 40px;
+    width: 40px;
+    object-fit: cover;
+    margin-right: 15px;
+    border-radius: 20px;
+}
+
+.text {
+    display: block;
+    font-size: 13px;
+    line-height: 18px;
+    width: 140px;
+}

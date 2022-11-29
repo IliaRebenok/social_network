@@ -1,0 +1,25 @@
+.wrap {
+    display: flex;
+    box-sizing: border-box;
+    width: 380px;
+    
+}
+
+.button {
+    padding-top: 13px;
+    margin-right: 10px;
+}
+
+.buttonIco{
+    height: 24px;
+    width: 24px;
+}
+
+.trackInfo {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 200px;
+    padding-top: 14px;
+    color: #666;
+}

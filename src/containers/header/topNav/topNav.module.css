@@ -1,0 +1,18 @@
+.wrap {
+    display: flex;
+    box-sizing: border-box;
+    align-items: center;
+    width: 64px;
+}
+
+.image{
+    height: 36px;
+    width: 36px;
+    border-radius: 18px;
+    margin-right: 10px;
+}
+
+.arrow {
+    height: 10px;
+    width: 10px;
+}

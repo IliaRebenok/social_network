@@ -1,0 +1,23 @@
+.wrap {
+    height: 36px;
+    display: flex;
+    align-items: center;
+}
+
+.wrap img {
+    height: 24px;
+    width: 24px;
+    margin: auto 10px auto 0;
+}
+
+.text {   
+    color: #666;
+    padding-top: 0px;
+    display: block;
+    font-size: 14px;
+}
+
+.wrap:hover {
+    background-color: #eee;
+}
+

@@ -1,0 +1,21 @@
+.wrap{
+    display: flex;
+    justify-content: space-around;
+}
+
+.item{
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #666;
+    transition: 0.1s;
+}
+
+.counterName {
+    font-size: 13px;
+}
+
+.counterNumber {
+    font-size: 22px;
+}

@@ -1,0 +1,22 @@
+.wrap{
+
+    
+    font-size: 14px;
+    margin: 10px 0;
+}
+
+.tableKey{
+    width: 200px;
+    color: #aaa;
+}
+
+.tableValue{
+    width: 200px;
+    color: #666;
+    text-decoration: none;
+    transition: 0.1s;
+}
+
+.tableValue:hover, .tableValue:focus {
+    text-decoration: underline;
+}

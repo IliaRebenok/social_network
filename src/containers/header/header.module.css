@@ -1,0 +1,19 @@
+.headerWrapper {
+    display: flex;
+    align-items: center;
+    width:100vw;
+    background-color: #fff;
+    height: 48px;
+    box-shadow: 5px 0px 10px #ccc;
+    padding: 0 10px;
+    position: fixed;
+    z-index: 100;
+}
+
+.headerContent {
+    box-sizing: border-box;
+    display: flex;
+    width: 970px;
+    z-index: 101;
+    margin: 0 auto;
+}

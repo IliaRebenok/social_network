@@ -1,0 +1,10 @@
+.wrap {
+    display: block;
+    width: 48px;
+    padding-top: 12px;
+}
+
+.ico{
+    width: 26px;
+    height: auto;
+}

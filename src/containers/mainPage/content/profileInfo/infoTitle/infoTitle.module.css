@@ -1,0 +1,19 @@
+.wrap{ 
+    display: flex;   
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.line{
+    display: block;
+    height: 1px;
+    background-color: #ddd;
+    width: 100%;
+    margin: 0 10px;
+}
+
+.title{
+    white-space: nowrap;
+}

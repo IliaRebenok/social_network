@@ -1,0 +1,29 @@
+.firstStrokeWrap{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
+.userName {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.activity {
+    padding-top: 5px;
+    font-size: 13px;
+    color: #666;
+}
+
+.ico {
+    width: 24px;
+    height: 24px;
+    object-fit: cover;
+}
+
+.whatsUp{
+    color: #666;
+    font-size: 13px;
+    text-decoration: none;
+    margin-bottom: 20px;
+}

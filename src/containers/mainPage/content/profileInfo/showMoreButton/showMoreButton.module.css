@@ -1,0 +1,26 @@
+.moreButton {
+    background-color: transparent;
+    border: none;
+    text-align: center;
+    width: 520px;
+    height: 30px;
+    color: #666;
+    padding-right: 32px;
+}
+
+.moreButton:hover{
+    background-color: #eee;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+.moreButton:active {
+    transform: translateY(1px);
+    color: #444;
+}
+
+.moreContent{
+    display: flex;
+    font-size: 14px;
+    margin-bottom: 10px;
+}

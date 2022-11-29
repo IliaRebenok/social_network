@@ -1,0 +1,15 @@
+.App {
+  display: flex;  
+}
+
+.contentWrap{
+  display: flex;
+}
+
+.page {
+  box-sizing: border-box;
+  display: flex;
+  width:970px;
+  margin: 0 auto;
+  padding-left: 10px;
+}

@@ -1,0 +1,26 @@
+.wrap{
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.item {
+    display: flex;    
+    font-size: 13px;
+    line-height: 20px;
+    color: #666;
+    margin-right: 15px;
+}
+
+.item:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.ico {
+    margin-left: 5px;
+    margin-top: 8px;
+    height: 8px;
+    width: 8px;
+}
